@@ -1,2 +1,2 @@
 # To do list
-Lista de tarefas
+Uma lista de tarefas utilizando Javascripit, HTML e CSS.
